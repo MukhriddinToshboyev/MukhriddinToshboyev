@@ -1,25 +1,29 @@
 # Hi, I'm Mukhriddin 👋
+# A passionate Frontend Developer from Tashkent, Uzbekistan. I love building interactive and user-friendly web applications using React.
 
-💻 Frontend Developer (React)
+💻 Frontend Developer | React, JavaScript, Tailwind CSS, Material UI, Git & GitHub
 
 ## 🚀 Skills
-- HTML
-- CSS
-- JavaScript
-- React
-- Material UI
-- Tailwind CSS
-- Git & GitHub
+💻 HTML  
+🎨 CSS  
+⚡ JavaScript  
+⚛️ React  
+🛠️ Material UI  
+🌬️ Tailwind CSS  
+🔗 Git & GitHub
 
 ## 📂 Projects
-- Portfolio Website
-- Todo List
-- Circular Website
-- Homely Website
-- C_User Website
-- Pizza app
-- weather_forecast Website
-- Getting-information-from-the-API 
+- [Portfolio Website](https://muxriddin-portfoliyo1.netlify.app) – My personal portfolio built with React and Tailwind CSS. Showcases my projects and skills.
+- [Todo List](link) – A simple todo app with CRUD functionality built using React.
+- [Circular Website](link) – A responsive circular layout website created with HTML, CSS, and JavaScript.
+- [Homely Website](link) – Real estate web template using React and Material UI.
+- [C_User Website](link) – A user management dashboard built with React and Tailwind CSS.
+- [Pizza App](link) – Pizza ordering app with interactive UI and cart functionality.
+- [Weather Forecast Website](link) – A weather forecast app fetching data from API and displaying results dynamically.
+- [Getting Information from the API](link) – A project demonstrating API calls and data display using React.
 
 ## 📫 Contact
-- Telegram: @muxriddin_0909
+📫 Email: atoshboev331@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/mukhriddin-toshboyev-40065b368  
+🐦 Telegram: @muxriddin_0909  
+🌐 Portfolio: https://muxriddin-portfoliyo1.netlify.app
