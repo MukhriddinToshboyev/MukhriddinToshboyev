@@ -18,7 +18,7 @@
 - [Circular Website](link) – A responsive circular layout website created with HTML, CSS, and JavaScript.
 - [Homely Website](link) – Real estate web template using React and Material UI.
 - [C_User Website](link) – A user management dashboard built with React and Tailwind CSS.
-- [Pizza App](link) – Pizza ordering app with interactive UI and cart functionality.
+- [Pizza App](pitsa-czfht6qa4-mukhriddintoshboyevs-projects.vercel.app) – Pizza ordering app with interactive UI and cart functionality.
 - [Weather Forecast Website](link) – A weather forecast app fetching data from API and displaying results dynamically.
 - [Getting Information from the API](link) – A project demonstrating API calls and data display using React.
 
